@@ -46,4 +46,4 @@ Autenticati
 
 ## Deployment
 
-* Rimpiazza con il link online della tua App.
+[PlayHorizon](https://marco-lippolis-play-horizon-mg0p6dvgt-marco-lippolis-projects.vercel.app/)
