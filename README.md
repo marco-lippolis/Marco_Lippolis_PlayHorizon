@@ -46,4 +46,4 @@ Autenticati
 
 ## Deployment
 
-[PlayHorizon](https://marco-lippolis-play-horizon-mg0p6dvgt-marco-lippolis-projects.vercel.app/)
+[PlayHorizon](https://marco-lippolis-play-horizon.vercel.app/)
